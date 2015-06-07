@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dc/dev/shumi/warap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="983e2f375504bc04def18e709c35192afe92e65f">
+        <dex dex="/Users/dc/dev/shumi/warap/app/build/intermediates/pre-dexed/full/debug/classes-0fa53a810d658b96d038674cfab806d49169e1c3.jar" />
+    </item>
+    <item
+        jar="/Users/dc/dev/shumi/comwrap/beta/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="eeebabdfd8203f6ab639ccea4ffa1f20e1adee3a">
+        <dex dex="/Users/dc/dev/shumi/comwrap/beta/app/build/intermediates/pre-dexed/full/release/classes-28be2aed61fb38e65bab00c1e4f2981c1b3f5c9a.jar" />
+    </item>
+    <item
+        jar="/Users/dc/dev/shumi/warap/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/jars/libs/internal_impl-22.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="025cb89f2896c63200ff4c2e6c467a95691d880a">
+        <dex dex="/Users/dc/dev/shumi/warap/app/build/intermediates/pre-dexed/full/debug/internal_impl-22.1.0-1ee1c92f0087eca7c5495dd96468b2e1f17a1d41.jar" />
+    </item>
+    <item
+        jar="/Users/dc/dev/shumi/comwrap/beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="983e2f375504bc04def18e709c35192afe92e65f">
+        <dex dex="/Users/dc/dev/shumi/comwrap/beta/app/build/intermediates/pre-dexed/full/release/classes-de4e634185a3d3070475c8c4468e0c3b8c2e4816.jar" />
+    </item>
+    <item
+        jar="/Users/dc/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.0/support-annotations-22.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="281bc6c58ecb3644c23fbc5ee0452019f67b4d5d">
+        <dex dex="/Users/dc/dev/shumi/comwrap/beta/app/build/intermediates/pre-dexed/full/release/support-annotations-22.1.0-de12df0b3930b85c26d96de7e3d756a7b27d2efe.jar" />
+    </item>
+    <item
+        jar="/Users/dc/dev/shumi/comwrap/beta/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/jars/libs/internal_impl-22.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="025cb89f2896c63200ff4c2e6c467a95691d880a">
+        <dex dex="/Users/dc/dev/shumi/comwrap/beta/app/build/intermediates/pre-dexed/full/release/internal_impl-22.1.0-afa5e9034710ab63e42f4270afdbacad7af59bc5.jar" />
+    </item>
+    <item
+        jar="/Users/dc/dev/shumi/warap/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="eeebabdfd8203f6ab639ccea4ffa1f20e1adee3a">
+        <dex dex="/Users/dc/dev/shumi/warap/app/build/intermediates/pre-dexed/full/debug/classes-50d518a82a0e7b193e5911ee3165b8950cd8e6c4.jar" />
+    </item>
+
+</items>
